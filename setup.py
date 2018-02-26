@@ -19,5 +19,6 @@ setup(
     "thrift==0.9.3",
     "requests",
     "rsa",
+    "linepy",
     ]
 )
